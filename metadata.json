@@ -1,0 +1,5 @@
+{
+  "name": "Personal Security Dashboard",
+  "description": "An interactive dashboard that helps users monitor the security of their personal devices and online accounts. It detects potential vulnerabilities, provides actionable security recommendations, and educates users on safe online practices using AI.",
+  "requestFramePermissions": []
+}
